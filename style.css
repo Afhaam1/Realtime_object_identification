@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    font-size: 25px;
+
+}
+body{
+    background-size: cover;
+}
+.footer{
+    position: fixed;
+    color:grey;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(244, 229, 206);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid white ;
+    border-radius: 10px ;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 130px;
+}
